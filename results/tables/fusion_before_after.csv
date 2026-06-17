@@ -1,0 +1,3 @@
+annual_return,annual_volatility,sharpe,max_drawdown,cumulative_return,hit_rate,observations,fund,family,method,lookback_days,rebalance,periods_per_year,first_live_date
+0.09429226626169829,0.1571156261546124,0.6001456925036108,-0.23598757291952455,0.3089833329731684,0.5325365205843293,753,Equity Max Sharpe,Equity,max_sharpe,252,monthly,252,2021-01-04
+0.09216348728113655,0.1613572173362794,0.5711767270320582,-0.20267234818917468,0.30138906886177375,0.5325365205843293,753,Equity Sentiment Tilt,Equity,sentiment_tilt,252,monthly,252,2021-01-04

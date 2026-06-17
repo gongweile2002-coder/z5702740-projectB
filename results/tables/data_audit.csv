@@ -1,0 +1,4 @@
+dataset,asset_class,rows,tickers,start_date,end_date,duplicate_ticker_dates_after_clean,min_observations_per_ticker,max_abs_daily_return,duplicate_rows_removed,duplicate_ticker_date_title_after_clean
+equity_prices,Equity,50300,50,2020-01-02,2023-12-29,0.0,1006,0.5201379648635512,,
+crypto_prices,Crypto,14610,10,2020-01-01,2023-12-31,0.0,1461,0.7492442836546367,,
+news_headlines,Equity news,146836,50,2020-01-01,2023-12-31,,656,,2847.0,0.0

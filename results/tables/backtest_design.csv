@@ -1,0 +1,10 @@
+fund,family,method,lookback_days,rebalance,periods_per_year,first_live_date
+Combined Equal Weight,Combined,equal_weight,252,monthly,252,2021-01-04
+Combined Max Sharpe,Combined,max_sharpe,252,monthly,252,2021-01-04
+Combined Min Variance,Combined,min_variance,252,monthly,252,2021-01-04
+Crypto Equal Weight,Crypto,equal_weight,365,monthly,365,2021-01-01
+Crypto Risk Parity,Crypto,risk_parity,365,monthly,365,2021-01-01
+Equity Equal Weight,Equity,equal_weight,252,monthly,252,2021-01-04
+Equity Max Sharpe,Equity,max_sharpe,252,monthly,252,2021-01-04
+Equity Min Variance,Equity,min_variance,252,monthly,252,2021-01-04
+Equity Sentiment Tilt,Equity,sentiment_tilt,252,monthly,252,2021-01-04
